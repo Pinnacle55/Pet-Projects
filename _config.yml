@@ -2,7 +2,6 @@ title: Jonny's Coding Notebook
 author: plaguuuuu
 email: tranquilitatis@gmail.com
 theme: jekyll-theme-cayman
-layout: post
 description: > # this means to ignore newlines until "baseurl:"
   A blog designed to document my own coding adventures. This is primarily a way for me showcase what I've done and the methods 
   I used to get there. Currently just for fun, but this may change down the road!
