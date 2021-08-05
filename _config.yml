@@ -1,7 +1,7 @@
 title: Jonny's Diary 
 author: plaguuuuu
 email: tranquilitatis@gmail.com
-theme: jekyll-theme-cayman
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   A blog designed to document my own coding adventures. This is primarily a way for me showcase what I've done and the methods 
   I used to get there. Mostly a fun way to record all the stuff that I've done!
